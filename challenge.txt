@@ -1,2 +1,3 @@
 hi this is a new git file for the given changes please contact the creator of the file.
 some more changes are being donw in order to test the git branching and merging system with fluidity.
+this line should only be visible to the main file if coded correctly.
